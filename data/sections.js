@@ -5,7 +5,7 @@ export default [
         description: (
             <div>
                 <p>Add <a href="https://t.me/notify_me_robot" target="_blank">the bot</a> and save generated user ID.</p>
-                <p>Send POST request to <code>/api/v0/telegram</code> with the following body:</p>
+                <p>Send POST request to <code>api.usenotify.info/v0/telegram</code> with the following body:</p>
             </div>
         ),
         request: {
