@@ -10,8 +10,8 @@
   "version": "1.0.0",
   "dependencies": {
     "next": "^7.0.2",
-    "react-dom": "^16.7.0",
-    "react": "^16.6.3"
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
