@@ -9,7 +9,7 @@
   "license": "MIT",
   "version": "1.0.0",
   "dependencies": {
-    "next": "^7.0.2",
+    "next": "^8.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
